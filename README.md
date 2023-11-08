@@ -1,4 +1,4 @@
-# BDExerc042Join
+# BDExerc042
 ## Links:
 ---
 ### [para SQLLocadora.sql](#sqllocadorasql)
